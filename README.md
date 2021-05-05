@@ -1,5 +1,4 @@
 # Mi Mochila del Viajero
----
 
 ## Viaje
 
